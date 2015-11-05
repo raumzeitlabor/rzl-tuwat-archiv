@@ -1,5 +1,5 @@
 # rzl-tuwat.txt
-[![Slack Status](https://rzl-slackin.herokuapp.com/badge.svg)](https://rzl-slacking.herokuapp.com)
+[![Slack Status](https://rzl-slackin.herokuapp.com/badge.svg)](https://rzl-slackin.herokuapp.com)
 
 Hast du Langeweile? Tuwat! Schau in die Issues und erledige etwas, was schon lange überfällig ist.
 
